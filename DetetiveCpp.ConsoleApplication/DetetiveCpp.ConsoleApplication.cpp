@@ -329,7 +329,7 @@ void acusar() {
 		<< "3. CANO DE CHUMBO\n"
 		<< "4. CORDA\n"
 		<< "5. CANDELABRO\n"
-		<< "5. CHAVE INGLESA\n\n"
+		<< "6. CHAVE INGLESA\n\n"
 		<< "> ";
 
 	cin >> leitura;
